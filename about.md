@@ -4,52 +4,50 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+To obtain the Software Development Engineer position utilizing both software programming skills and hardware background.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+Programming is fun, isn't it? :)
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Binghamton University, State University of New York, Watson School of Engineering and Applied Science
+	Master of Science in Electrical and Computer Engineering, Minor in Computer Engineering	  	          
+	Cumulative GPA: 3.94/4.00 
+
+* Beijing University of Posts and Telecommunications, School of Information and Communication Engineering
+	Bachelor of Science in Electrical Engineering, Minor in Telecommunication Engineering
+	Cumulative GPA: 83/100 
 
 ## Roles
 
-Founder, ABC Organisation
+Software Programmer
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
+* **Programming language** - `Java` / `JavaScript` / `C++` / `C#` / `MATLAB` / `Verilog`
+* **IDE** - `Eclipse` / `InteliJ`
+* **Algorithms & DataStructures** - `A lot :\`
+* **Language** - `English` / `Chinese(Mandarin)`  
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* [**Partial result submission**](#) 
+###Dataguise
+   Submit job partial results every time called from front end, processing with thread-safe global map.
 
 ***
 
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* [**JobQueue Routing**](#) 
+###Dataguise
+    Assign jobs into different particular jobQueue based on domain settings. To manage the data node resource in to proper way.
 
 ***
 
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* [**Change Point Detection method research**](#) 
+###Binghamton University
+   Utilized Change Point Detection theory to detect the abnormal change in raw EEG dataset, in order to give pre-alarm to doctors before situation of patients getting worse. 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[marshall.yang.zhang@gmail.com](mailto:marshall.yang.zhang@gmail.com)
