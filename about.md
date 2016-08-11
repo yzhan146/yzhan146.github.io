@@ -33,19 +33,19 @@ Software Programmer
 
 
 * [**Partial result submission**](#) 
-###Dataguise
-   Submit job partial results every time called from front end, processing with thread-safe global map.
+@Dataguise
+   *Submit job partial results every time called from front end, processing with thread-safe global map.
 
 ***
 
 * [**JobQueue Routing**](#) 
-###Dataguise
-    Assign jobs into different particular jobQueue based on domain settings. To manage the data node resource in to proper way.
+@Dataguise
+    *Assign jobs into different particular jobQueue based on domain settings. To manage the data node resource in to proper way.
 
 ***
 
 * [**Change Point Detection method research**](#) 
-###Binghamton University
+@Binghamton University
    Utilized Change Point Detection theory to detect the abnormal change in raw EEG dataset, in order to give pre-alarm to doctors before situation of patients getting worse. 
 
 ## Contact me
